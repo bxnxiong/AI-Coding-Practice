@@ -1,2 +1,2 @@
 # AI-Coding-Practice
-Python programming assignments for Elements of AI
+Python programming assignments for 2016 Fall course _Elements of AI_
