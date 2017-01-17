@@ -137,7 +137,7 @@ class stateKeeper():
         for i in range(len(board)):
             row = i // 4
             col = i % 4
-
+            
             if board[i] != 0:
                 row_g = (board[i]-1) // 4
                 col_g = (board[i]-1) % 4
